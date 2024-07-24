@@ -1,6 +1,7 @@
 from setuptools import setup
 
 tool_map = {
+    'fpdb': 'git+https://github.com/ra101/fpdb.git',
 }
 
 setup(
